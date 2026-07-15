@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed023/v1
 canonical_location: https://kanripo.org/bkk/KR3ed023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 瑞竹堂經驗方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed023_000.yaml, hash: 'sha256:24b29789f2e66c4beb6e80bb96a733d5a7886f1c734b562a3c8803756a8982e0'}
+  - {seq: 0, filename: KR3ed023_000.yaml, hash: 'sha256:2389449fb66087d0ff3f3a1114b5596fefa28fb54c2b05881572dc5285548d75'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed023_000.markers.yaml, hash: 'sha256:bfe8a5394ff3b2bd2c075f8ca4416fba2e8191c078cc3285915a1c5931c4bccf'}
+  - {seq: 0, role: markers, filename: assets/KR3ed023_000.markers.yaml, hash: 'sha256:811b0d6a40764e2209ef6a901ced17351b2df128fd71c6f606172496b2ac929f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -3631,4 +3631,7 @@ table_of_contents:
   label: 四聖散
   type: section
   level: 2
-hash: sha256:e111f5f9ffc461d9bc4f080c5817d7559c5bf0fcc85dc8978dcbbd3877bc252d
+hash: sha256:1ae0aeb89161271a7bfb8d239a2c3ef62e4ae9dd7c9d872d9dea091eb20800d3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
